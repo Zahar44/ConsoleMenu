@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleMenu.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="data.cpp" />
     <ClCompile Include="drowV2.0.cpp" />
     <ClCompile Include="field.cpp" />
