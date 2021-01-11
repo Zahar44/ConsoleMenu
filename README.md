@@ -2,4 +2,4 @@
 
 Project is console menu witch can add/edit members. 
 
-This project was made for impruving my c programming skills.
+This project was made for improving my c programming skills.
